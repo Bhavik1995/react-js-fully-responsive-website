@@ -9,7 +9,8 @@
 .gpt3__navbar-links{
     flex: 1;
     display: flex;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
+    justify-content: space-between;
     align-items: center;
 }
 
